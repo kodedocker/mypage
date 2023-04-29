@@ -1,5 +1,6 @@
 {
   "name": "mypage",
+  "homepage": "https://kodedocker.github.io/mypage/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
